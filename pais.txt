@@ -1,5 +1,7 @@
-Brasil Alterado
-Estados Unidos Alterado
-Chile Alterado
-Equador Alterado
-Argentina Alterado
+Brasil
+Estados Unidos
+Chile
+Equador
+Argentina
+Uruguai
+Paraguai
